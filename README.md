@@ -1,4 +1,4 @@
-# Robotron Alura
+# Robotron 2000 Alura
 projeto Robotron2000 aula sobre DOM em Javascript
 
 ## Tecnologias
